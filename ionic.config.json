@@ -1,0 +1,8 @@
+{
+  "name": "enferApp",
+  "app_id": "57957118",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
